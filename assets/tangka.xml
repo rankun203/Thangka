@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TANG_card>
+    <set>
+        <type>fo</type>
+        <member>
+            <item>
+                <name>世尊</name>
+                <protrait>sj.png</protrait>
+                <background>sj.jpg</background>
+                <chinese>释迦牟尼佛，原名悉达多·乔达摩，古印度著名思想家，佛教创始人，出生于今尼泊尔南部。被后世尊称为佛陀（Buddha、意为“觉悟者”）、世尊等；汉地还会尊称他为佛祖，即“佛教祖师”。佛教认为：在这世间，佛陀是最殊胜尊贵、最无上、最值得受人尊敬的导师，因以无漏智慧摧破烦恼成就无上等正觉，世间及出世间一切凡圣咸皆尊重！所以佛陀被称为世尊（巴利文：Bhagavā），也就是“世人所敬仰的”。通常称释迦牟尼佛为世尊。</chinese>
+                <english>Gautama Buddha, also known as Siddhārtha Gautama, Shakyamuni, or simply the Buddha, was a sage on whose teachings Buddhism was founded. He is believed to have lived and taught mostly in eastern India sometime between the sixth and fourth centuries BCE..</english>
+            	<tagName>TANG_sjdf,TANG_sdjfs</tagName>
+            </item>
+            <item>
+                <name>长寿佛</name>
+                <protrait>csf.png</protrait>
+                <background>csf.jpg</background>
+                <chinese>阿弥陀佛的梵文原意是“无量光”和“无量寿”两种意思，具有空间和时间两种性质，本来是阿弥陀佛一身所兼具的。但藏传佛教内却将两种含义分别作为两尊佛供奉。持诵长寿佛咒语，能增长寿命及福德智慧，避免非时而死及夭折或意外身亡，消除一切罪业，证无死成就或住生西方极乐净土。人身是无常的，出生于此世间当中，往生也是必然存在的。</chinese>
+                <english>Amitabha Fan Wenyuan meaning is "infinite light" and "Amitayus" two meanings, with two properties of space and time, which was originally a Buddha of both. But within Tibetan Buddhism puts two meanings, respectively, as the two Buddha worship. Longevity Buddha recite the spell, can increase longevity and wisdom Crawford, died of non-time and avoid premature or accidental death, the elimination of all sin, no death certificate or live birth achievement Western Elysium. Person is impermanent, born here among the world reborn is bound to exist.</english>
+            	<tagName>TANG_3,TANG_x</tagName>
+            </item>
+        </member>
+    </set>
+    <set>
+        <type>bdps</type>
+        <member>
+            <item>
+                <name>除盖障菩萨</name>
+                <protrait>cgzps.png</protrait>
+                <background>cgzps.jpg</background>
+                <chinese>名副其实，这位大菩萨以消除一切盖障而著称，盖障即形形色色的烦恼，主要是贪欲、嗔恚、睡眠、掉悔、怀疑五盖，这五种障碍能覆盖心性光明，使人坐禅难以入定。不得禅定则智慧不开，没有智慧则难辨对错真伪，不分真假对错则愚昧无知、造作恶业，恶业累积则堕入恶道受无量苦。可见消除五盖属于修行的基本功，除盖障菩萨在八大菩萨中知名度最低，这大概跟众生对基本功的忽视不无关系，大家如饥似渴地盼望“立地成佛”、“一步到位”，跟“剪不断，理还乱”的五盖去作艰苦不懈的斗争确实很辛苦。</chinese>
+                <english>Although the eight Mahāsattvas belong to the current Mahāyāna, the term nivāraṇa is most commonly used in the Theravada texts where it refers to the five mental obstacles: desire (kamacchanda), hostility (vyapada), laziness (thinamiddha), distraction and worry (uddhachcha-kukuchcha), doubts (vichikicha) towards the Three Jewels. Sarvanivāraṇaviṣkambhi is best known to meditators and is not an important subject to individual worship like the other seven mahāsattvas.</english>
+            	<tagName>TANG_kjh,TANG_hjj</tagName>
+            </item>
+            <item>
+                <name>弥勒菩萨</name>
+                <protrait>mlps.png</protrait>
+                <background>mlps.jpg</background>
+                <chinese>弥勒菩萨，是释迦牟尼佛的继任者，将在未来娑婆世界降生成佛，成为娑婆世界的下一尊佛，在贤劫千佛中将是第五尊佛，常被尊称为当来下生弥勒尊佛或弥勒佛。在大乘佛教中称他现为等觉菩萨，也有称为妙觉菩萨，是八大菩萨之一，大乘经典中又常称为阿逸多菩萨。他被唯识学派奉为鼻祖，其庞大思想体系，以《瑜伽师地论》为代表，而由无著、世亲菩萨阐释弘扬，深受中国佛教大师道安和玄奘的推崇。</chinese>
+                <english>Maitreya (Sanskrit), Metteyya (Pali), Maithree (Sinhala), Jampa (Tibetan) or Di-Lặc (Vietnamese), is regarded as a future Buddha of this world in Buddhist eschatology. In some Buddhist literature, such as the Amitabha Sutra and the Lotus Sutra, he is referred to as Ajita.</english>
+            	<tagName>TANG_xx</tagName>
+            </item>
+            <item>
+                <name>观世音菩萨</name>
+                <protrait>sbgy.png</protrait>
+                <background>sbgy.jpg</background>
+                <chinese>观世音菩萨，又译为观自在菩萨、光世音菩萨。汉语音译“阿婆卢吉低舍婆罗”、“阿缚卢枳低湿伐逻”，名号意思为“观察世间音声觉悟有情”。为大乘佛教西方极乐世界教主阿弥陀佛座下的上首菩萨，同大势至菩萨一起，为阿弥陀佛的左、右胁侍菩萨，并称“西方三圣”，同时祂也是四大菩萨之一。</chinese>
+                <english>Avalokiteśvara ("Lord who looks down") is a bodhisattva who embodies the compassion of all Buddhas. This bodhisattva is variably depicted and portrayed in different cultures as either female or male. Avalokiteśvara is one of the more widely revered bodhisattvas in mainstream Mahayana Buddhism, as well as unofficially in Theravada Buddhism.</english>
+           		<tagName>TANG_y,TANG_z,TANG_safd</tagName>
+            </item>
+            <item>
+                <name>文殊菩萨</name>
+                <protrait>wsh.png</protrait>
+                <background>wsh.jpg</background>
+                <chinese>文殊菩萨，又称文殊师利菩萨、曼殊室利菩萨，亦称妙吉祥菩萨，佛教四大菩萨之一，释迦牟尼佛的左胁侍菩萨，代表智慧。因德才超群，居菩萨之首，故称法王子。文殊菩萨的名字意译为“妙吉祥”；Mañju，文殊或曼殊，意为美妙、雅致，śrī，师利或室利，意为吉祥、美观、庄严。</chinese>
+                <english>Mañjuśrī is a bodhisattva associated with transcendent wisdom (Skt. prajñā) in Mahāyāna Buddhism. In Esoteric Buddhism he is also taken as a meditational deity. The Sanskrit name Mañjuśrī can be translated as "Gentle Glory", "Soft Glory" (Powers 1995), "Wondrous Auspiciousness" (Geibel 2001), and so forth. Mañjuśrī is also known by the fuller Sanskrit name of Mañjuśrīkumārabhūta., literally "Mañjuśrī, Still a Youth" or less literally "Prince Mañjuśrī".</english>
+            	<tagName>TANG_xyy,TANG_usyf,TANG_sdkf</tagName>
+            </item>
+            <item>
+                <name>普贤菩萨</name>
+                <protrait>pxps.png</protrait>
+                <background>pxps.jpg</background>
+                <chinese>普贤菩萨，曾译遍吉菩萨，音译为三曼多跋陀罗，汉传佛教四大菩萨之一。是象征理德、行德的菩萨，同文殊菩萨的智德、正德相对应，是娑婆世界释迦牟尼佛的右、左胁侍，被称为“华严三圣”。许多日本真言宗人士认为卫护佛门的金刚萨埵是普贤菩萨化身，密教是由金刚萨埵所开创。另一说金刚萨埵为大势至菩萨或其他佛、菩萨所示现。四川峨眉山是普贤菩萨的道场。</chinese>
+                <english>Samantabhadra (Sanskrit: समन्तभद्र; literally Universal Worthy), is a bodhisattva in Mahayana Buddhism associated with Buddhist practice and meditation. Together with Shakyamuni Buddha and fellow bodhisattva Manjusri he forms the Shakyamuni trinity in Buddhism. He is the patron of the Lotus Sūtra and, according to the Avataṃsaka Sūtra, made the ten great vows which are the basis of a bodhisattva. In China, Samantabhadra is associated with action, whereas the bodhisattva Mañjuśrī is associated with wisdom. In Japan this bodhisattva is often venerated by the Tendai and Shingon sects, and as the protector of the Lotus Sūtra by the Nichiren sect.</english>
+            	<tagName>TANG_JI</tagName>
+            </item>
+            <item>
+                <name>地藏菩萨</name>
+                <protrait>dzps.png</protrait>
+                <background>dzps.jpg</background>
+                <chinese>地藏菩萨，或称地藏王菩萨，曾音译为“乞叉底蘗婆”。因其“安忍不动如大地，静虑深密如秘藏”，故名地藏。为佛教四大菩萨之一，与观音、文殊、普贤一起，深受世人敬仰。以其“久远劫来屡发弘愿”，即在于‘地狱不空、誓不成佛’故被尊称为大愿地藏王菩萨。</chinese>
+                <english>Ksitigarbha is a bodhisattva primarily revered in East Asian Buddhism and usually depicted as a Buddhist monk. His name may be translated as "Earth Treasury", "Earth Store", "Earth Matrix", or "Earth Womb". Ksitigarbha is known for his vow to take responsibility for the instruction of all beings in the six worlds between the death of Gautama Buddha and the rise of Maitreya, as well as his vow not to achieve Buddhahood until all hells are emptied. He is therefore often regarded as the bodhisattva of hell-beings, as well as the guardian of children and patron deity of deceased children and aborted fetuses in Japanese culture.</english>
+            	<tagName>TANG_xdjf,TANG_xcj</tagName>
+            </item>
+            <item>
+                <name>虚空藏菩萨</name>
+                <protrait>xkzps.png</protrait>
+                <background>xkzps.jpg</background>
+                <chinese>虚空藏菩萨摩诃萨，虚空、苍穹，garbha 胎藏、库藏，亦译虚空孕、虚空库，密号如意金刚、库藏金刚等，佛教八大菩萨之一，祂横空出世、凌驾群雄、心包太虚、量周沙界、光照万宇、德被亿众、慈悲恒发、威力无穷，记忆力如虚空浩瀚无垠。与代表大地的地藏菩萨互为呼应。为密宗胎藏界坛城虚空藏院之中尊，金刚界坛城贤劫十六尊之一。</chinese>
+                <english>Ākāśagarbha Bodhisattva is a Mahāyāna bodhisattva who is associated with the great element (mahābhūta) of space (ākāśa). Ākāśagarbha is regarded as one of the eight great bodhisattvas. His name can be translated as "boundless space treasury" or "void store" as his wisdom is said to be boundless as space itself. He is sometimes known as the twin brother of the "earth store" bodhisattva Kṣitigarbha, and is even briefly mentioned in the Kṣitigarbha Bodhisattva Pūrvapraṇidhāna Sūtra.</english>
+            	<tagName>TANG_sjlidf,TANG_xc</tagName>
+            </item>
+            <item>
+                <name>金刚手菩萨</name>
+                <protrait>jgs.png</protrait>
+                <background>jgs.jpg</background>
+                <chinese>金刚萨埵（Vajrasattva），又称执金刚菩萨（Vajradhara）、金刚勇猛心菩萨、金刚手秘密主、金刚上首、金刚藏、秘密主等。是佛教的大菩萨，以执金刚神的外型出现，通常身现一手持铃，一手持金刚杵之相，象征“坚固不坏之菩提心”。他与观世音菩萨、文殊菩萨，合称三族性尊，密宗以他为最初的起源。金刚萨埵具大神通，可以号令诸天神将、夜叉以降服妖魔，甚至能以珍宝护持修行者。其护法神有象征知识、财富的毗沙门天与象鼻天等大神。龙王、阿修罗王等，也都护持金刚萨埵。尼泊尔佛教徒大多认为金刚萨埵降服了大自在天。</chinese>
+                <english>Vajrapāṇi is one of the earliest-appearing bodhisattvas in Mahayana Buddhism. He is the protector and guide of Gautama Buddha and rose to symbolize the Buddha's power. Vajrapani is extensively represented in Buddhist iconography as one of the three protective deities surrounding the Buddha. Each of them symbolizes one of the Buddha's virtues: Mañjuśrī manifests all the Buddhas' wisdom, Avalokiteśvara manifests all the Buddhas' compassion and Vajrapani manifests all the Buddhas' power as well as the power of all five tathāgatas.</english>
+            	<tagName>TANG_YU,TANG_yj,TANG_ghj,TANG_hj</tagName>
+            </item>
+        </member>
+    </set>
+    <set>
+        <type>gy</type>
+        <member>
+            <item>
+                <name>空行观音</name>
+                <protrait>kxgy.png</protrait>
+                <background>kxgy.jpg</background>
+                <chinese>空行母，即护持密乘行人及教法之女性护法，亦为对一切修密乘的女人之尊称；就更广义而言，女性之佛陀皆为空行母，如二十四度母、尊胜佛母皆是。显教之种种重男轻女之观念：如女性不能成就圆满佛陀位、三十二大丈夫相为男性佛陀专有，以及佛典中种种轻贬女子之观念，至密宗则完全变过！密宗之尊重女性在若干方面更甚于男性……种种密典所开示，空行母实在是密乘教法和修持的最主要之主体之一。</chinese>
+                <english>A dakini (Sanskrit: "sky dancer") is a Tantric priestess of ancient India who "carried the souls of the dead to the sky". This Buddhist figure is particularly upheld in Tibetan Buddhism. The dakini is a female being of generally volatile temperament, who acts as a muse for spiritual practice.</english>
+            	<tagName>TANG_jslkdf,TANG_sdkfj</tagName>
+            </item>
+            <item>
+                <name>四臂观音</name>
+                <protrait>sbgy.png</protrait>
+                <background>sbgy.jpg</background>
+                <chinese>四臂观音是雪域西藏的守护神，藏人由老至幼家家户户，皆吟诵其六字大明咒:“嗡嘛呢叭咪吽”。广大藏蒙佛教徒还把达赖喇嘛奉为观音化身, 四臂观音舆文殊菩萨、金刚手菩萨，合称三族姓尊.代表大悲、大智、大力，为密乘行者人人必修的法门。</chinese>
+                <english>Avalokiteśvara ("Lord who looks down") is a bodhisattva who embodies the compassion of all Buddhas. This bodhisattva is variably depicted and portrayed in different cultures as either female or male. Avalokiteśvara is one of the more widely revered bodhisattvas in mainstream Mahayana Buddhism, as well as unofficially in Theravada Buddhism.</english>
+            	<tagName>TANG_y,TANG_z,TANG_sjdkf,TANG_safd</tagName>
+            </item>
+            <item>
+                <name>白莲花观音</name>
+                <protrait>blhgy.png</protrait>
+                <background>blhgy.jpg</background>
+                <chinese>手持一莲花，坐在莲叶上，多为容貌较好的少女形象。该法相为立于莲座之上，双手捧持一茎莲花。 持莲观音，持一茎之莲，立荷叶上，表三十三身中之童男童女身。</chinese>
+                <english>Padmapani, as a name for Lokeshvara, is very much a Sanskrit term coming out of the Sutra and Mahayana tradition of Buddhism. The Tibetan language translation of the name Padmapani is not easily found in the Tibetan literature. The name is also not commonly, if ever, found in Vajrayana Buddhism where the forms of Lokeshvara are understood as meditational deities with clear descriptions and meanings taught in the various Tantra texts.</english>
+            	<tagName>TANG_sfj,TANG_hsjf,TANG_sdf,TANG_sfjd</tagName>
+            </item>
+            <item>
+                <name>千手观音</name>
+                <protrait>qsgy.png</protrait>
+                <background>qsgy.jpg</background>
+                <chinese>千手观音又称千手千眼观世音、千眼千臂观世音等，是我国民间信仰的四大菩萨之一。千手观音是是阿弥陀佛的左胁侍，与阿弥陀佛、大势至菩萨（阿弥陀佛的右胁侍）合称为“西方三圣”。</chinese>
+                <english>Sahasra-bhuja Sahasra-netra Avalokiteśvara (Thousand Armed Thousand Eyed Avalokiteshvara) is one of the widely venerated forms of Avalokiteśvara. He has 48 principal arms which hold various instruments, and the rest of the arms form a background. He has an eye in each of those thousand palms.</english>
+            	<tagName>TANG_sjkdf,TANG_sjkdfs,TANG_yuk6</tagName>
+            </item>
+        </member>
+    </set>
+    <set>
+        <type>wdtw</type>
+        <member>
+            <item>
+                <name>东方持国天王</name>
+                <protrait>cgtw.png</protrait>
+                <background>cgtw.jpg</background>
+                <chinese>东方持国天王：“持国”意为慈悲为怀，保护众生，护持国土，故名持国天王。住须弥山白银埵，身为白色，穿甲胄，手持琵琶或阮琴 ，有两义：一、弦乐器松紧要适中，太紧则易断，太松则声不响，表行中道之法；二、是主乐神，表明他要用音乐来使众生皈依佛教。他负责守护东胜神洲，以 乾闼婆、紧那罗、富单那、毗舍阇等为持国天王的部众，是‘二十诸天’中的第四天王。</chinese>
+                <english>King of the east and God of music. His symbolic weapon is the pipa (stringed instrument). He is harmonious and compassionate and protects all beings. Uses his music to convert others to Buddhism. Associated with the color white.</english>
+            	<tagName>TANG_ljskf,TANG_ghjs</tagName>
+            </item>
+            <item>
+                <name>南方增长天王</name>
+                <protrait>zztw.png</protrait>
+                <background>zztw.jpg</background>
+                <chinese>南方增长天王：“增长”意为能传令众生，增长善根，护持佛法，故名增长天王。住须弥山琉璃埵，身为青色，穿甲冑，手握宝剑，有两义：一、宝剑象征智慧，慧剑斩烦恼；二、为的是保护佛法，不受侵犯。他负责守护南瞻部洲，以鸠盘茶、薜荔多等为增长天王的部众，是‘二十诸天’中的第五天王。</chinese>
+                <english>King of the south and one who causes good growth of roots. He is the ruler of the wind. His symbolic weapon is the sword which he carries in his right hand to protect the Dharma and the southern continent. Associated with the color blue.</english>
+            	<tagName>TANG_ghjsaf,TANG_kljsfd</tagName>
+            </item>
+            <item>
+                <name>西方广目天王</name>
+                <protrait>gmtw.png</protrait>
+                <background>gmtw.jpg</background>
+                <chinese>西方广目天王：“广目”意为能以净天眼随时观察世界，护持人民，故名广目天王。住须弥山水晶埵，身为红色，穿甲冑，手缠一条龙或是蛇，有两义：一、表世间多变之意，二、是龙神的首领。另一手上拿着宝珠，表内心不变之意。他负责守护西牛贺洲，以龙王等为广目天王的部众，是‘二十诸天’中的第六天王。</chinese>
+                <english>King of the west and one who sees all. His symbolic weapon is a snake or red cord that is representative of a dragon. As the eye in the sky, he sees people who do not believe in Buddhism and converts them. His ancient name means he who has broad objectives. Associated with the color red.</english>
+            	<tagName>TANG_skjfd,TANG_kjs</tagName>
+            </item>
+            <item>
+                <name>北方多闻天王</name>
+                <protrait>dwtw.png</protrait>
+                <background>dwtw.jpg</background>
+                <chinese>北方多闻天王：又名毗沙门，“多闻”意为颇精通佛法，以福、德闻于四方。住须弥山黄金埵，身为绿色，穿甲冑，左手卧银鼠，右持宝伞（或作宝幡），有两义：一：伞盖代表要保护自己的内心不受外面环境染污；二、用以遮蔽世间，避免魔神危害，以护持人民财富。又名施财天，是古印度的财神。他负责守护北俱芦洲，以夜叉与罗刹为多闻天王的部众，是‘二十诸天’中的第三天王。</chinese>
+                <english>This is the chief of the four kings and protector of the north. He is the ruler of rain. His symbolic weapons are the umbrella or pagoda. Wearing heavy armor and carrying the umbrella in his right hand, he is often associated with the ancient Indian God of wealth. Associated with the color yellow or green.</english>
+            	<tagName>TANG_ghj2,TANG_sjkf</tagName>
+            </item>
+        </member>
+    </set>
+</TANG_card>
